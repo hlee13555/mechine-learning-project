@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/models/m-2211e6e80fab400fbe18d1d0d33b1a95/artifacts
+creation_timestamp: 1764456003340
+experiment_id: '313599138252168003'
+last_updated_timestamp: 1764456011347
+model_id: m-2211e6e80fab400fbe18d1d0d33b1a95
+model_type: null
+name: pipeline_LogisticRegression
+source_run_id: 27795b5918134c8eb3451daf2d329418
+status: 2
+status_message: null

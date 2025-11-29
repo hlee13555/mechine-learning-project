@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/28588c38ca344add8e46dbd0182d723b/artifacts
+end_time: 1764455421657
+entry_point_name: ''
+experiment_id: '313599138252168003'
+lifecycle_stage: active
+run_id: 28588c38ca344add8e46dbd0182d723b
+run_name: class_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764455412033
+status: 3
+tags: []
+user_id: charl

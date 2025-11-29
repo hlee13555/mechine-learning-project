@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/c275d12b959c4d47aba0f9850f98e996/artifacts
+end_time: 1764455457723
+entry_point_name: ''
+experiment_id: '313599138252168003'
+lifecycle_stage: active
+run_id: c275d12b959c4d47aba0f9850f98e996
+run_name: reg_LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764455457694
+status: 4
+tags: []
+user_id: charl

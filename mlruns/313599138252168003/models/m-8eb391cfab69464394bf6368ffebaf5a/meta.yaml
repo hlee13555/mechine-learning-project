@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/models/m-8eb391cfab69464394bf6368ffebaf5a/artifacts
+creation_timestamp: 1764453882789
+experiment_id: '313599138252168003'
+last_updated_timestamp: 1764453888288
+model_id: m-8eb391cfab69464394bf6368ffebaf5a
+model_type: null
+name: pipeline_DecisionTreeClassifier
+source_run_id: 8e624ba5be7c45998980a32cab4e414c
+status: 2
+status_message: null

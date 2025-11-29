@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/models/m-04d3bfe8507c4300a5817103370e3a6e/artifacts
+creation_timestamp: 1764456016379
+experiment_id: '313599138252168003'
+last_updated_timestamp: 1764456020255
+model_id: m-04d3bfe8507c4300a5817103370e3a6e
+model_type: null
+name: pipeline_LinearRegression
+source_run_id: da6c51b1ac804b65b18cc2e778f3751a
+status: 2
+status_message: null
