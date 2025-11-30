@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/models/m-1df60b683dfb457690ff14296a716b82/artifacts
+creation_timestamp: 1764458259204
+experiment_id: '313599138252168003'
+last_updated_timestamp: 1764458262739
+model_id: m-1df60b683dfb457690ff14296a716b82
+model_type: null
+name: DecisionTreeRegressor
+source_run_id: a3bc84c46ba9440c9b4f50008f266a4c
+status: 2
+status_message: null

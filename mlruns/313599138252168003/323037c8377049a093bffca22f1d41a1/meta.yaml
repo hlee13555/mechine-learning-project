@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/323037c8377049a093bffca22f1d41a1/artifacts
+end_time: 1764461200675
+entry_point_name: ''
+experiment_id: '313599138252168003'
+lifecycle_stage: active
+run_id: 323037c8377049a093bffca22f1d41a1
+run_name: class_DecisionTreeClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764461196829
+status: 3
+tags: []
+user_id: charl

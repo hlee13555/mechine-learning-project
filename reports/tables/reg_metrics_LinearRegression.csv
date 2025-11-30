@@ -1,0 +1,3 @@
+model,split,mae,rmse
+LinearRegression,val,4.574880575136647,6.303474336608424
+LinearRegression,test,3.9755875432133325,5.335535620954123

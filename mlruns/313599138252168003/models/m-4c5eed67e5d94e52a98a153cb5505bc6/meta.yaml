@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/models/m-4c5eed67e5d94e52a98a153cb5505bc6/artifacts
+creation_timestamp: 1764461854232
+experiment_id: '313599138252168003'
+last_updated_timestamp: 1764461857639
+model_id: m-4c5eed67e5d94e52a98a153cb5505bc6
+model_type: null
+name: LinearRegression
+source_run_id: 946b9a5fa05f4512a5d531cbb92df308
+status: 2
+status_message: null

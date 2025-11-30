@@ -1,0 +1,3 @@
+model,split,mae,rmse
+DecisionTreeRegressor,val,1.3566404109423778,1.9622808834604295
+DecisionTreeRegressor,test,1.1567930624511555,1.6966968018990802

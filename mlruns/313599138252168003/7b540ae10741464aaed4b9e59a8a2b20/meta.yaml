@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/charl/mechine-learning-project/mlruns/313599138252168003/7b540ae10741464aaed4b9e59a8a2b20/artifacts
+end_time: 1764461861718
+entry_point_name: ''
+experiment_id: '313599138252168003'
+lifecycle_stage: active
+run_id: 7b540ae10741464aaed4b9e59a8a2b20
+run_name: reg_DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764461857660
+status: 3
+tags: []
+user_id: charl
